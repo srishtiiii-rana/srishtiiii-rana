@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srishtiiii-rana
-- 👀 I’m interested in front-end,cpp and OOPs concepts and learning about tech
-- 🌱 I’m currently learning Html, Css AND Js
+- 👀 I’m interested in front-end, cpp and OOPs concepts and learning about tech
+- 🌱 I’m currently learning Html, Css AND Js langauges for web development 
 - 💞️ I’m looking to collaborate on Html-css webpages and designs
 - 📫 Reach me via linkedin mentioned in my profile
 - 😄 Pronouns: She/her
