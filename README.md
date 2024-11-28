@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Js libraries and frameworks for web development. 
 - 💞️ I’m looking to collaborate on frontend-projects.
 - 📫 Reach me via linkedin mentioned in my profile.
-- ✨ Part of my college geeks_for_geeks_studentclub, training and placement Department, Table tennis club and the Association of computer engineering club.
+- ✨ Current president of the Geeksforgeeks Student Chapter 2024-25, Editorial head for tech content @Computer engineering dept club of my college. 
 
 
 <!---
